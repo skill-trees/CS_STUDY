@@ -1,6 +1,6 @@
 ## Array vs ArrayList vs LinkedList
 
-![img.png](img.png)
+![img.png](Downloads/doha/CS_STUDY/Data Structure/image/ArrayList & LinkedList.png)
 - Array: index 로 빠르게 값을 찾는 것이 가능함
 - LinkedList : 데이터의 삽입 및 삭제가 빠름
 - ArrayList : 데이터를 찾는데 빠르지만, 삽입과 삭제가 느림
