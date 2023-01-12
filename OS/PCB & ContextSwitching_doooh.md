@@ -33,7 +33,7 @@ CPU는 각 프로세스의 정보(특징)들을 갖고 있음 = `process metadat
 > 하나의 PCB 에는 하나의 프로세스 정보가 담김.
 
 
-![img.png](img.png)
+![img.png](Downloads/doha/CS_STUDY/OS/image/PCB & ContextSwitching.png)
 
 정리 :
 1. 프로그램 실행

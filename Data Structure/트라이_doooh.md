@@ -11,4 +11,4 @@
 
 ex. 예시 ) { bear, bell, bid, bull, buy, sell, stock, stop }
 
-![img.png](image/trie.png)
+![img.png](Downloads/doha/CS_STUDY/Data Structure/image/Trie.png)

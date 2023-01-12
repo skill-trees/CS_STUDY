@@ -10,13 +10,13 @@ Quick Sort(퀵 정렬)은 <U>분할 정복 방법</U>을 통해 주어진 배열
 ## 퀵 정렬
 - 최선의 경우(Best cases) : T(n) = O(nlog₂n)
   - 순환 호출의 깊이 * 각 순환 호출 단계의 비교 연산 = nlog₂n
-      ![img.png](images/quickSort1.png)
+      ![img.png](Downloads/doha/CS_STUDY/Algorithm/image/quickSort1.png)
   
     
 - 최악의 경우(Worst cases) : T(n) = O(n²)  
     - 배열이 오름차순 정렬되어있거나 내림차순 정렬되어있는 경우
     - 순환 호출의 깊이 * 각 순환 호출 단계의 비교 연산 = n²
-      ![img.png](images/quickSort2.png)
+      ![img.png](Downloads/doha/CS_STUDY/Algorithm/image/quickSort2.png)
 
 - 공간 복잡도 : O(n)
 
