@@ -2,7 +2,7 @@
 
 ## **Tree**
 
-[https://lh3.googleusercontent.com/rGCPmyLHB3tqt7Goxi2wzTbIV8o-4W4zsTAnGkq1_ZyK3PfIkDOxPJLLc9sEF1Uc61qHnuzjVFd-3vXHOEk7Vk5vgTX29j4Tl-w_Z-sNOapjusygr8B77kFAP_GKhU_emx_wQeRpGfbgeqf1NW8Fnh4gjmRTyitczLti7ZqRfiSG_4IydJIunMNVulmHMQ](https://lh3.googleusercontent.com/rGCPmyLHB3tqt7Goxi2wzTbIV8o-4W4zsTAnGkq1_ZyK3PfIkDOxPJLLc9sEF1Uc61qHnuzjVFd-3vXHOEk7Vk5vgTX29j4Tl-w_Z-sNOapjusygr8B77kFAP_GKhU_emx_wQeRpGfbgeqf1NW8Fnh4gjmRTyitczLti7ZqRfiSG_4IydJIunMNVulmHMQ)
+![](./image/tree0.png)
 
 - 트리(Tree)는 그래프의 일종으로 정점과 간선을 이용하여 데이터의 배치 형태를 추상화한 자료구조이다.
 - 서로 다른 두 노드를 연결하는 길이 하나뿐인 그래프를 트리라고 부른다.
@@ -28,7 +28,7 @@
 
 트리를 순회하는 방식은 총 4가지
 
-[https://lh6.googleusercontent.com/ofKK1y2frRV9tpW4vjsJ5IEkv9FlPA_HoLmhzluaGV_lnao3AF2fG52sAibo2lErGRiFm4CS5OE5Vf3x9xVgtwM61gKHf-LKFjrGcYWUypFVPIR3kzwoz-VY40OzbequKcDlXeDJlTcJf1urin_vtuw09Wv8mxP3j9MoCYJd6YiT0fOCTM1gscQIcI4OWQ](https://lh6.googleusercontent.com/ofKK1y2frRV9tpW4vjsJ5IEkv9FlPA_HoLmhzluaGV_lnao3AF2fG52sAibo2lErGRiFm4CS5OE5Vf3x9xVgtwM61gKHf-LKFjrGcYWUypFVPIR3kzwoz-VY40OzbequKcDlXeDJlTcJf1urin_vtuw09Wv8mxP3j9MoCYJd6YiT0fOCTM1gscQIcI4OWQ)
+![](./image/tree1.png)
 
 **1. 전위 순회(pre-order)**
 
